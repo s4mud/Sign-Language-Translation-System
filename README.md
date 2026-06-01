@@ -1,4 +1,3 @@
-# Sign-Language-Translation-System
 # Sign Language Translation System
 
 A computer vision-based Sign Language Translation System that recognizes hand gestures and translates them into text in real time.
